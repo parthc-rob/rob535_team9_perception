@@ -2,6 +2,7 @@
 
 This repository contains code to classify images for the Perception portion of ROB535.
 
+Read the Final Report [HERE](https://github.com/parthc-rob/rob535_team9_perception/blob/master/REPORT-short.pdf)
 Currently we finetune pretrained models from the package `cnn_finetune` to our dataset, including data augmentation from other datasets. 
 
 We also have a number of tasks which can be run.
